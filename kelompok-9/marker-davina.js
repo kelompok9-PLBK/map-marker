@@ -21,6 +21,6 @@ L.marker([5.893152, 95.339534])
   .bindPopup("<b>Pantai Sumur Tiga 🌊</b><br>Pantai luas dengan ombak tenang, cocok untuk bersantai dan menikmati suasana.");
 
 // Tugu I Love Sabang
-L.marker([5.8890, 95.3160])
+L.marker([5.876540, 95.329973])
   .addTo(map)
   .bindPopup("<b>Tugu I Love Sabang ❤️</b><br>Spot foto populer bagi wisatawan dengan latar tulisan ikonik Sabang.");
