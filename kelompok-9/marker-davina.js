@@ -24,3 +24,9 @@ L.marker([5.893152, 95.339534])
 L.marker([5.876540, 95.329973])
   .addTo(map)
   .bindPopup("<b>Tugu I Love Sabang ❤️</b><br>Spot foto populer bagi wisatawan dengan latar tulisan ikonik Sabang.");
+
+// Benteng Anoi Itam
+L.marker([5.847675, 95.373418])
+  .addTo(map)
+  .bindPopup("<b>Benteng Anoi Itam 🏰</b><br>Situs sejarah peninggalan Jepang dengan pemandangan langsung ke Selat Malaka.");
+
