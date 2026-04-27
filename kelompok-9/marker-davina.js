@@ -16,7 +16,7 @@ L.marker([5.883025, 95.257343])
   .bindPopup("<b>Pulau Rubiah 🐠</b><br>Destinasi wisata bawah laut terkenal di Sabang dengan terumbu karang yang indah.");
 
 // Pantai Sumur Tiga
-L.marker([5.8512, 95.3306])
+L.marker([5.893152, 95.339534])
   .addTo(map)
   .bindPopup("<b>Pantai Sumur Tiga 🌊</b><br>Pantai luas dengan ombak tenang, cocok untuk bersantai dan menikmati suasana.");
 
