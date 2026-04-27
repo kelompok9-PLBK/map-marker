@@ -30,3 +30,27 @@ L.marker([5.847675, 95.373418])
   .addTo(map)
   .bindPopup("<b>Benteng Anoi Itam 🏰</b><br>Situs sejarah peninggalan Jepang dengan pemandangan langsung ke Selat Malaka.");
 
+// Batee Tokong (Diving Spot)
+L.marker([5.898340, 95.252259])
+  .addTo(map)
+  .bindPopup("<b>Batee Tokong 🤿</b><br>Salah satu spot diving terbaik di Sabang dengan arus kuat dan biota laut yang beragam.");
+
+// The Canyon
+L.marker([5.8890, 95.2505])
+  .addTo(map)
+  .bindPopup("<b>The Canyon 🐠</b><br>Spot diving populer dengan formasi karang unik dan kehidupan laut yang kaya.");
+
+// Rubiah Sea Garden
+L.marker([5.8775, 95.2435])
+  .addTo(map)
+  .bindPopup("<b>Rubiah Sea Garden 🌊</b><br>Spot snorkeling & diving dengan terumbu karang yang indah dan mudah diakses.");
+
+// Sophie Rickmers Wreck
+L.marker([5.8895, 95.2468])
+  .addTo(map)
+  .bindPopup("<b>Sophie Rickmers Wreck 🚢</b><br>Bangkai kapal legendaris dari Perang Dunia yang jadi spot diving favorit.");
+
+// Gapang House Reef
+L.marker([5.8647, 95.2480])
+  .addTo(map)
+  .bindPopup("<b>Gapang House Reef 🐟</b><br>Spot diving santai dengan visibility bagus dan cocok untuk pemula.");
