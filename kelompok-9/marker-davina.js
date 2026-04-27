@@ -10,6 +10,11 @@ L.marker([5.872867, 95.256719])
   .addTo(map)
   .bindPopup("<b>Pantai Iboih 🏝️</b><br>Pantai dengan air jernih dan pasir putih, cocok untuk snorkeling dan menikmati keindahan alam.");
 
+// Aceh Heritage Village
+L.marker([5.8884455, 95.3421805])
+  .addTo(map)
+  .bindPopup("<b>Aceh Heritage Village 🏺</b><br>Tempat yang menyajikan kekayaan budaya dan warisan sejarah Aceh di Kota Sabang.");
+
 // Pulau Rubiah
 L.marker([5.883025, 95.257343])
   .addTo(map)
@@ -35,22 +40,50 @@ L.marker([5.898340, 95.252259])
   .addTo(map)
   .bindPopup("<b>Batee Tokong 🤿</b><br>Salah satu spot diving terbaik di Sabang dengan arus kuat dan biota laut yang beragam.");
 
-// The Canyon
-L.marker([5.8890, 95.2505])
+// Nemo Dive Center
+L.marker([5.8841, 95.2635])
   .addTo(map)
-  .bindPopup("<b>The Canyon 🐠</b><br>Spot diving populer dengan formasi karang unik dan kehidupan laut yang kaya.");
+  .bindPopup("<b>Nemo Dive Center 🤿</b><br>Pusat penyelaman profesional di Iboih untuk mengeksplorasi keindahan bawah laut Pulau Weh.");
 
-// Rubiah Sea Garden
-L.marker([5.8775, 95.2435])
+// Pantai Sumur Tiga
+L.marker([5.89276, 95.3395224])
   .addTo(map)
-  .bindPopup("<b>Rubiah Sea Garden 🌊</b><br>Spot snorkeling & diving dengan terumbu karang yang indah dan mudah diakses.");
+  .bindPopup("<b>Pantai Sumur Tiga 🏖️</b><br>Pantai dengan pasir putih yang sangat bersih dan air biru jernih, sering disebut sebagai Hawaii-nya Sabang.");
 
-// Sophie Rickmers Wreck
-L.marker([5.8895, 95.2468])
+// Gua Sarang
+L.marker([5.8270768, 95.259526])
   .addTo(map)
-  .bindPopup("<b>Sophie Rickmers Wreck 🚢</b><br>Bangkai kapal legendaris dari Perang Dunia yang jadi spot diving favorit.");
+  .bindPopup("<b>Gua Sarang 🦇</b><br>Gua alami di pinggir laut yang menawarkan pemandangan tebing yang eksotis, sangat Instagramable.");
 
-// Gapang House Reef
-L.marker([5.8647, 95.2480])
+// Pantai Pasir Putih (Paya Keuneukai)
+L.marker([5.779713, 95.305291])
   .addTo(map)
-  .bindPopup("<b>Gapang House Reef 🐟</b><br>Spot diving santai dengan visibility bagus dan cocok untuk pemula.");
+  .bindPopup("<b>Pantai Pasir Putih 🏖️</b><br>Pantai yang tenang dengan hamparan pasir putih bersih, cocok untuk bersantai bersama keluarga.");
+
+// Air Terjun Pria Laot
+L.marker([5.8303562, 95.3037092])
+  .addTo(map)
+  .bindPopup("<b>Air Terjun Pria Laot 🌊</b><br>Wisata air tawar yang sejuk di tengah hutan alami Sabang, memiliki sensasi fish spa alami.");
+
+// Iboih Dive Centre
+L.marker([5.8743243, 95.2562592])
+  .addTo(map)
+  .bindPopup("<b>Iboih Dive Centre 🤿</b><br>Pusat penyelaman populer di Teupin Layeu yang menawarkan paket diving profesional.");
+
+// Sea Safari Diving Centre
+L.marker([5.8716097, 95.2582482])
+  .addTo(map)
+  .bindPopup("<b>Sea Safari Diving Centre 🤿</b><br>Layanan diving berpengalaman untuk mengeksplorasi titik-titik selam terbaik di Pulau Weh.");
+
+// Lumba Lumba Diving Centre
+L.marker([5.8532994, 95.2698531])
+  .addTo(map)
+  .bindPopup("<b>Lumba Lumba Diving Centre 🤿</b><br>Diving resort di Pantai Gapang dengan fasilitas lengkap dan akses langsung ke pantai.");
+
+// Menara Merah Putih
+L.marker([5.779713, 95.305291])
+  .addTo(map)
+  .bindPopup("<b>Menara Merah Putih 🗼</b><br>Menara pandang yang menawarkan panorama Kota Sabang dari ketinggian.");
+
+
+
