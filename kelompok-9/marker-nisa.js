@@ -44,3 +44,33 @@ L.marker([4.6118, 96.8702])
 L.marker([4.5593, 96.9275])
   .addTo(map)
   .bindPopup("<b>Pante Menye 🌅</b><br>Tepi Danau Laut Tawar dengan pemandangan indah, cocok untuk santai sambil menikmati kuliner lokal.");  
+
+// Gua Putri Pukes
+L.marker([4.6411, 96.8831])
+  .addTo(map)
+  .bindPopup("<b>Gua Putri Pukes 🗺️</b><br>Gua legendaris dengan batu menyerupai manusia, menyimpan cerita rakyat Gayo yang telah diwariskan turun-temurun sejak ribuan tahun silam.");
+
+// Arung Jeram Pegasing
+L.marker([4.5955, 96.8036])
+  .addTo(map)
+  .bindPopup("<b>Arung Jeram Pegasing 🚣</b><br>Spot arung jeram dengan arus menantang, dikelilingi tebing dan hutan lebat — cocok untuk pemula maupun yang sudah berpengalaman.");
+
+// Kebun Kopi Gayo
+L.marker([4.6589, 96.8498])
+  .addTo(map)
+  .bindPopup("<b>Kopi Gayo Arabica ☕</b><br>Hamparan kebun kopi Arabika terbaik dunia. Wisatawan bisa memetik biji kopi sendiri dan mencicipi secangkir kopi Gayo segar langsung dari sumbernya.");
+
+// Taman Kota
+L.marker([4.6217, 96.8466])
+  .addTo(map)
+  .bindPopup("<b>Taman Kota Takengon (Tugu Aman Dimot) 🍢</b><br>Pusat jajanan UMKM favorit warga lokal di jantung kota. Tersedia aneka kuliner khas Gayo, kopi Gayo, dan wahana bermain anak. Buka setiap hari hingga malam.");
+
+// Rumah Makan Ikan Depik
+L.marker([4.6066, 96.8617])
+  .addTo(map)
+  .bindPopup("<b>Bu lena Cafe Ikan Bakar 🐟</b><br>Nikmati aneka ikan segar khas Aceh Tengah seperti depik, nila, dan lainnya, diolah dengan bumbu khas yang meresap sempurna. Tersedia pilihan goreng dan bakar dengan rasa gurih, lezat, dan bikin nagih.");
+
+// Pacuan Kuda Gayo
+L.marker([4.5999, 96.8106])
+  .addTo(map)
+  .bindPopup("<b>Pacuan Kuda Tradisional Gayo 🐎</b><br>Pesta rakyat tahunan yang digelar saat HUT RI dan HUT Kota Takengon. Pacuan kuda tradisional Gayo ini menjadi daya tarik budaya yang memukau ribuan pengunjung setiap tahunnya.");  
