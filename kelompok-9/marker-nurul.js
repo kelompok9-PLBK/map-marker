@@ -47,3 +47,53 @@ L.marker([5.561179, 95.2793707])
 L.marker([5.5557875, 95.281597])
   .addTo(map)
   .bindPopup("<b>Masjid Baiturrahim Ulee Lheue</b><br>Masjid yang selamat dari tsunami.");
+
+// 11
+L.marker([5.5456578, 95.3130485])
+  .addTo(map)
+  .bindPopup("<b>Gunongan</b><br>Bangunan bersejarah peninggalan Sultan Iskandar Muda.");
+
+// 12
+L.marker([5.5651334, 95.2941801])
+  .addTo(map)
+  .bindPopup("<b>Pelabuhan Ulee Lheue</b><br>Gerbang menuju Sabang.");
+
+// 13
+L.marker([5.5485602, 95.3183805])
+  .addTo(map)
+  .bindPopup("<b>Museum Aceh</b><br>Menyimpan sejarah dan budaya Aceh.");
+
+// 14
+L.marker([5.5460001, 95.3136796])
+  .addTo(map)
+  .bindPopup("<b>Taman Putroe Phang</b><br>Taman cantik di tengah kota.");
+
+// 15
+L.marker([5.5844998, 95.3484351])
+  .addTo(map)
+  .bindPopup("<b>Hutan Kota BNI</b><br>Tempat hijau untuk refreshing.");
+
+// 16
+L.marker([5.6140048, 95.3931955])
+  .addTo(map)
+  .bindPopup("<b>Pantai Lhok Mee</b><br>Pantai unik dengan batu karang besar.");
+
+// 17
+L.marker([5.4279118, 95.2401298])
+  .addTo(map)
+  .bindPopup("<b>Pantai Leupung</b><br>Pantai alami dengan view pegunungan.");
+
+// 18
+L.marker([5.4474996,95.6346781])
+  .addTo(map)
+  .bindPopup("<b>Gunung Seulawah</b><br>Gunung terkenal di Aceh Besar.");
+
+// 19
+L.marker([5.3910936, 95.3665239])
+  .addTo(map)
+  .bindPopup("<b>Air Terjun Kuta Malaka</b><br>Air terjun favorit wisatawan.");
+
+// 20
+L.marker([5.2856426, 95.2576316])
+  .addTo(map)
+  .bindPopup("<b>Air Terjun Suhom</b><br>Air terjun bertingkat yang sejuk.");
