@@ -11,7 +11,7 @@ L.marker([4.6475, 96.8079])
   .bindPopup("<b>Pantan Terong ⛰️</b><br>Tempat terbaik menikmati panorama Kota Takengon dari ketinggian, cocok untuk melihat sunrise dan sunset.");
 
 // Bur Telege
-L.marker([4.6121, 96.8546])
+L.marker([4.6122, 96.8545])
   .addTo(map)
   .bindPopup("<b>Bur Telege 🌄</b><br>Destinasi wisata alam dengan view Danau Laut Tawar dari atas, terkenal dengan spot foto yang indah.");
 
