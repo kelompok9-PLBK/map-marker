@@ -31,7 +31,7 @@ L.marker([4.6512, 96.8201])
   .bindPopup("<b>Buntul Rintis 🌄</b><br>Tempat hits dengan spot foto menarik dan pemandangan kota Takengon dari ketinggian.");
 
 // Masjid Agung Ruhama
-L.marker([4.6245, 96.8417])
+L.marker([4.6210, 96.8469])
   .addTo(map)
   .bindPopup("<b>Masjid Agung Ruhama 🕌</b><br>Masjid ikonik di pusat Kota Takengon dengan perpaduan arsitektur modern dan tradisional Gayo.");
 
