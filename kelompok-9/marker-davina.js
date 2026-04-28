@@ -15,6 +15,26 @@ L.marker([5.8884455, 95.3421805])
   .addTo(map)
   .bindPopup("<b>Aceh Heritage Village 🏺</b><br>Tempat yang menyajikan kekayaan budaya dan warisan sejarah Aceh di Kota Sabang.");
 
+// Moon Cafe
+L.marker([5.8973167, 95.3173398])
+  .addTo(map)
+  .bindPopup("<b>Moon Cafe 🌙</b><br>Tempat nongkrong estetik dengan suasana modern di pusat kota Sabang.");
+
+// Wehland Coffee
+L.marker([5.8581728, 95.3446541])
+  .addTo(map)
+  .bindPopup("<b>Wehland Coffee ☕</b><br>Cafe dengan kualitas kopi premium dan suasana yang cozy di Cot Abeuk.");
+
+// Nasaka Coffee & Resto
+L.marker([5.875189, 95.2553506])
+  .addTo(map)
+  .bindPopup("<b>Nasaka Coffee & Resto 🍽️</b><br>Resto kekinian di Iboih dengan pemandangan laut yang indah.");
+
+// Cup of Journey
+L.marker([5.8665233, 95.3182132])
+  .addTo(map)
+  .bindPopup("<b>Cup of Journey ☕</b><br>Cafe dengan suasana asri dan tenang di Krueng Raya, cocok untuk menikmati kopi sambil bersantai.");
+
 // Pulau Rubiah
 L.marker([5.883025, 95.257343])
   .addTo(map)
