@@ -1,9 +1,9 @@
 // Marker - Nisa (Aceh Tengah / Takengon)
 
-// Danau Laut Tawar
-L.marker([4.6146, 96.9229])
+// Pantai Danau Laut Tawar
+L.marker([4.6077, 96.8624])
   .addTo(map)
-  .bindPopup("<b>Danau Laut Tawar 🌊</b><br>Danau terbesar di Aceh yang jadi ikon Takengon, dengan pemandangan pegunungan yang tenang dan sejuk.");
+  .bindPopup("<b>Pantai Danau Laut Tawar 🌊</b><br>Danau terbesar di Aceh yang jadi ikon Takengon, dengan pemandangan pegunungan yang tenang dan sejuk.");
 
 // Pantan Terong
 L.marker([4.6473, 96.8078])
