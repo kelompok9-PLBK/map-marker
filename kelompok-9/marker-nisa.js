@@ -36,7 +36,7 @@ L.marker([4.6245, 96.8417])
   .bindPopup("<b>Masjid Agung Ruhama 🕌</b><br>Masjid ikonik di pusat Kota Takengon dengan perpaduan arsitektur modern dan tradisional Gayo.");
 
 // Goa Loyang Koro
-L.marker([4.6118, 96.8702])
+L.marker([4.6057, 96.8840])
   .addTo(map)
   .bindPopup("<b>Goa Loyang Koro 🗿</b><br>Gua bersejarah di dekat Danau Laut Tawar yang menyimpan cerita masa lalu masyarakat Gayo.");
 
