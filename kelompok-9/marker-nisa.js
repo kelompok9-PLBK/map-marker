@@ -21,7 +21,7 @@ L.marker([4.6241, 96.8578])
   .bindPopup("<b>Dermaga Danau Laut Tawar 🚤</b><br>Tempat santai menikmati danau sambil naik perahu dan menikmati suasana yang damai."); 
   
 // Air Terjun Mengaya
-L.marker([4.5735, 96.9062])
+L.marker([4.5703, 96.9668])
   .addTo(map)
   .bindPopup("<b>Air Terjun Mengaya 💧</b><br>Air terjun tinggi dengan suasana alami, dikelilingi hutan hijau dan cocok untuk pecinta alam.");
 
