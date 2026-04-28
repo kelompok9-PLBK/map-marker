@@ -41,7 +41,7 @@ L.marker([4.6118, 96.8702])
   .bindPopup("<b>Goa Loyang Koro 🗿</b><br>Gua bersejarah di dekat Danau Laut Tawar yang menyimpan cerita masa lalu masyarakat Gayo.");
 
 // Pante Menye
-L.marker([4.5593, 96.9275])
+L.marker([4.5923, 96.9966])
   .addTo(map)
   .bindPopup("<b>Pante Menye 🌅</b><br>Tepi Danau Laut Tawar dengan pemandangan indah, cocok untuk santai sambil menikmati kuliner lokal.");  
 
