@@ -26,7 +26,7 @@ L.marker([4.5735, 96.9062])
   .bindPopup("<b>Air Terjun Mengaya 💧</b><br>Air terjun tinggi dengan suasana alami, dikelilingi hutan hijau dan cocok untuk pecinta alam.");
 
 // Buntul Rintis
-L.marker([4.6512, 96.8201])
+L.marker([4.6444, 96.8192])
   .addTo(map)
   .bindPopup("<b>Buntul Rintis 🌄</b><br>Tempat hits dengan spot foto menarik dan pemandangan kota Takengon dari ketinggian.");
 
