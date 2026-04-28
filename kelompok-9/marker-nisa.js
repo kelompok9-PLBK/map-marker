@@ -74,3 +74,13 @@ L.marker([4.6066, 96.8617])
 L.marker([4.5999, 96.8106])
   .addTo(map)
   .bindPopup("<b>Pacuan Kuda Tradisional Gayo 🐎</b><br>Pesta rakyat tahunan yang digelar saat HUT RI dan HUT Kota Takengon. Pacuan kuda tradisional Gayo ini menjadi daya tarik budaya yang memukau ribuan pengunjung setiap tahunnya.");  
+
+// Umah Pitu Ruang (Rumah Adat Gayo)
+L.marker([4.6272, 96.8476])
+  .addTo(map)
+  .bindPopup("<b>Umah Pitu Ruang 🏛️</b><br>Rumah adat tradisional suku Gayo dengan tujuh ruang bersejarah. Arsitektur panggung khas Gayo tanpa paku besi, dihiasi ukiran Kerawang bermakna filosofis mendalam.");
+
+// Loyang Datu
+L.marker([4.4573, 96.8758])
+  .addTo(map)
+  .bindPopup("<b>Loyang Datu (Gua Merah Mege) 🕳️</b><br>Gua legendaris di tepi sungai Desa Isaq, bekas kediaman Merah Mege putra Reje Linge. Dikelilingi pohon pinus dan menyimpan suasana purba yang magis.");  
