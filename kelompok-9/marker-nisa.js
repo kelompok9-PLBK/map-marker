@@ -84,3 +84,13 @@ L.marker([4.6272, 96.8476])
 L.marker([4.4573, 96.8758])
   .addTo(map)
   .bindPopup("<b>Loyang Datu (Gua Merah Mege) 🕳️</b><br>Gua legendaris di tepi sungai Desa Isaq, bekas kediaman Merah Mege putra Reje Linge. Dikelilingi pohon pinus dan menyimpan suasana purba yang magis.");  
+
+// Atu Belah 
+L.marker([4.4770, 97.0507])
+  .addTo(map)
+  .bindPopup("<b>Atu Belah (Batu Terbelah) 🪨</b><br>Batu raksasa yang terbelah dua dengan legenda rakyat Gayo penuh pesan moral. Salah satu wisata budaya dan alam paling unik di Aceh Tengah.");
+
+// Pasar Tradisional Paya Ilang
+L.marker([4.6247, 96.8346])
+  .addTo(map)
+  .bindPopup("<b>Pasar Paya Ilang 🛒</b><br>Pasar tradisional terbuka pusat kota Takengon. Surga belanja produk lokal Gayo seperti kopi arabika segar, ikan depik kering, gula aren, dan aneka kerajinan Kerawang Gayo.");
