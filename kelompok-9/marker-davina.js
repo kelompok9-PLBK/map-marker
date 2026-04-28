@@ -35,6 +35,11 @@ L.marker([5.8665233, 95.3182132])
   .addTo(map)
   .bindPopup("<b>Cup of Journey ☕</b><br>Cafe dengan suasana asri dan tenang di Krueng Raya, cocok untuk menikmati kopi sambil bersantai.");
 
+// D & D Restaurant
+L.marker([5.8737003, 95.2523009])
+  .addTo(map)
+  .bindPopup("<b>D & D Restaurant 🍽️</b><br>Restoran populer di Iboih yang menyajikan aneka hidangan laut segar dan masakan lokal dengan pemandangan pantai.");
+
 // Pulau Rubiah
 L.marker([5.883025, 95.257343])
   .addTo(map)
